@@ -8,6 +8,7 @@
   <link rel="stylesheet" type="text/css" href="css/styles.css">
 <title>Assignment Solution for Module 2</title>
 <style>
+
 /********** Base styles **********/
 /* Base Styles */
 
