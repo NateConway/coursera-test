@@ -23,7 +23,6 @@ h1 {
 }
 
 body {
-  background-image: url("background.jpg");
   background-color: #FEF5CA;
 
 }
